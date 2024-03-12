@@ -489,17 +489,17 @@ a{
 
 #project1{
     margin-left:70px;
-    background-image: url(./projects/Project1.png);
+    background-image: url(Project1.png);
 
 }
 #project2{
     margin-left:200px;
-    background-image: url(./projects/Project2.png);
+    background-image: url(Project2.png);
 
 }
 #project3{
     margin-left:70px;
-    background-image: url(./projects/Project3.png);
+    background-image: url(Project3.png);
 
 }
 
